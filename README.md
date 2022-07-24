@@ -14,7 +14,6 @@ A GUI Application Developed in Python using tkinter Module with MySQL as Databas
 
 **Dependencies**
 ```
-
 tkinter 
 mysql-connector
 docx
