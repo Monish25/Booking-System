@@ -1,6 +1,5 @@
 # Booking-System
 
-**_Project done by Monish Raaj.S_**
 
 A GUI Application Developed in Python using tkinter Module with MySQL as Database Backend
 
