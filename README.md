@@ -8,9 +8,9 @@ A GUI Application Developed in Python using tkinter Module with MySQL as Databas
 
 + SQL server setup will be automatically done if you enter the proper credentials for the SQL server to connect, the credentials mentioned to the SQL server should also have permissions to create, read, write, modify and delete data.
 
-Once setup is done, the Program can be started with ```menu.py``` file. 
++ Once setup is done, the Program can be started with ```menu.py``` file. 
 
-+ Written in Python 3.6 
+>Written in Python 3.6 
 
 ```
 **Dependencies:**
